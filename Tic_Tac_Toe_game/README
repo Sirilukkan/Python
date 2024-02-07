@@ -8,6 +8,6 @@ Requirements:
 * The tic tac toe board should be printed out every time each player makes a move  
 * Accept input from the player position and place a symbol on the board  
 
-### Tic_Tac_Toe.ipynb is the Jupyter Notebook file showing step-by-step Tic Tac Toe game 
+### Tic_Tac_Toe.ipynb is the Jupyter Notebook file showing step-by-step python coding for Tic Tac Toe game 
 
 
