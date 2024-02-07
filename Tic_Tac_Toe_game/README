@@ -1,1 +1,11 @@
+# Create a Tic Tac Toe game step-by-step
+
+Create a Tic Tac Toe game. You can use any IDE you are comfortable with.
+
+Requirements:  
+
+* 2 players are playing at the same time on the same computer  
+* The tic tac toe board should be printed out every time each player makes a move  
+* Accept input from the player position and place a symbol on the board
+
 
